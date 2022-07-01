@@ -86,3 +86,13 @@ pokkt.com, 6246, RESELLER, c45702d9311e25fd
 pokkt.com, 7606, RESELLER, c45702d9311e25fd
 admixplay.com, 2012, RESELLER
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
+Pubmatic.com, 157800, RESELLER,  5d62403b186f2ace
+Pubmatic.com, 158118, RESELLER,  5d62403b186f2ace
+admanmedia.com, 613, RESELLER
+algorix.co, 60016, RESELLER
+thebrave.io, 9840732, RESELLER,  c25b2154543746ac
+thebrave.io, 1234594, RESELLER,  c25b2154543746ac
+Pubnative.net, 1007063, RESELLER,  d641df8625486a7b
+Pubnative.net, 1003601, RESELLER,  d641df8625486a7b
+adelement.com, 30167, RESELLER
+adview.com, 48045325, RESELLER,  1b2cc038a11ea319
