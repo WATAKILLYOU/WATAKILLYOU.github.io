@@ -384,3 +384,11 @@ contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 thunder-monetize.com, 8221217003, RESELLER
 playdigo.com, 1965, RESELLER, 92011346d63d3c30
 copper6.com, 766114, RESELLER
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+xandr.com, 17779, RESELLER
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
+appnexus.com, 17779, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+google.com, pub-2818446395840180, DIRECT, f08c47fec0942fa0
